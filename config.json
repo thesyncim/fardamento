@@ -1,0 +1,63 @@
+{
+  "Pecas": {
+    "1": "Calça clasica",
+    "10": "cinturão velcro",
+    "11": "camisola de gola alta",
+    "12": "t'shirt",
+    "13": "colete de alta visibilidade assistente",
+    "14": "colete de alta visibilidade coordenador",
+    "15": "parka amarela de alta visibilidade (bicolor)",
+    "16": "parka azul",
+    "17": "polar em camisola",
+    "18": "polo de meia manga",
+    "19": "pullover sem mangas",
+    "2": "casaco modelo blazer",
+    "20": "boné",
+    "3": "camisa manga comprida",
+    "4": "camisa manga curta",
+    "5": "divisas",
+    "6": "gravata",
+    "7": "sapato Classico",
+    "8": "bota tipo militar",
+    "9": "calça operacional"
+  },
+  "Separador":" | ",
+  "Calcados": [
+    "sapato Classico",
+    "bota tipo militar"
+  ],
+  "Calcas": [
+    "Calça clasica",
+    "calça operacional | cinturão velcro"
+  ],
+  "Cintos": [
+    "cinturão velcro"
+  ],
+  "MangasCurtas": [
+    "t'shirt",
+    "polo de meia manga"
+  ],
+  "MangasCompridas": [
+    "polar em camisola",
+    "camisola de gola alta"
+  ],
+  "Camisas": [
+    "camisa manga comprida",
+    "camisa manga curta"
+  ],
+  "Divisas": "divisas",
+  "Gravata": "gravata",
+  "PullOver": "pullover sem mangas",
+  "Casacos": [
+    "casaco modelo blazer"
+  ],
+  "Parkas": [
+    "parka azul",
+    "parka amarela de alta visibilidade (bicolor)"
+  ],
+  "Coletes": [
+    "colete de alta visibilidade assistente",
+    "colete de alta visibilidade coordenador"
+  ],
+  "Bone": "boné"
+}
